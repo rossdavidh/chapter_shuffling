@@ -4,10 +4,12 @@ stitch pdfs together into one book pdf, then split it apart again into pdfs for 
 Put a plain text file in the directory with the programs from this repo, that is simply a list of the pdf's you wish to
 join together, with one pdf filename per line.  So, something like:
 
+```
 table_of_contents.pdf
 chapter_1.pdf
 chatper_2.pdf
 appendix.pdf
+```
 
 Also put the chapter pdf's (in this case, table_of_contents.pdf, chapter_1.pdf, etc.) in the directory.  Then, at the command
 line, issue the command:
