@@ -7,7 +7,7 @@ join together, with one pdf filename per line.  So, something like:
 ```
 table_of_contents.pdf
 chapter_1.pdf
-chatper_2.pdf
+chapter_2.pdf
 appendix.pdf
 ```
 
