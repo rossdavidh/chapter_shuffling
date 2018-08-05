@@ -1,0 +1,13 @@
+*.swp
+*.pyc
+*.odt
+*.ods
+*.pdf
+!blankPage.pdf
+images/
+maps/
+notes/
+raw_text/
+signatures/
+list_of_chapters.txt
+
